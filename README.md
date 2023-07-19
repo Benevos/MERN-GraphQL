@@ -15,4 +15,4 @@ Then navigate to `client` folder and do the same with these packages:
 npm i react react-dom react-router-dom graphql @apollo/client
 ```
 
-Now, you can do `npm run dev` i `root` and `client` folders to run both client and server.
+Now, you can do `npm run dev` in `root` and `client` folders to run both client and server.
