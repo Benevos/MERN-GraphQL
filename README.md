@@ -1,6 +1,6 @@
 # About the project
 
-The purpose of this project it to create a MERN (MongoDB with Mongoose, Express, React and Node) stack compatible with GraphQl.
+The purpose of this project it to create a MERN (MongoDB with Mongoose, Express, React and Node) stack compatible with GraphQl. This project is still in develpoment.
 
 ## How to execute the project
 
